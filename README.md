@@ -1,4 +1,4 @@
-![some alt text](sunglasses.jpg)
+![some alt text](./sunglasses.jpg)
 
 ### INSTRUCTION
 
