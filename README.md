@@ -18,4 +18,9 @@ git commit
 ~~~Fait des chocapics~~~
 
 > Permet d'ajouter les modifications a l'historique :shipit:
-
+<table>
+    <tr>
+        <td>Commande</td>
+	<td>Intérêt</td>
+    </tr>
+</table>
