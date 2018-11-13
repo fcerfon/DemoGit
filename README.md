@@ -7,14 +7,15 @@
 # __Init__ :
 
 ```
-**git init**
+git init
 ```
 > Initialise un dossier git
 
 # __commit__ :
 ```
-**git commit**
+git commit
 ```
-> ~~~Fait des chocapics~~~
+~~~Fait des chocapics~~~
+
 > Permet d'ajouter les modifications a l'historique :shipit:
 
