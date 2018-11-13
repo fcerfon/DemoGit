@@ -21,46 +21,74 @@ git commit
 <table>
     <tr>
         <td>Commande</td>
-	<td>Intérêt</td>
+	<td>Interet</td>
+    </tr>
+    <tr>
+        <td>git clone</td>
+        <td>Permet de cloner un depot existant :thumbsup:</td>
     </tr>
     <tr>
         <td>git init</td>
-        <td>permet d'initialiser un dépôt git :thumbsup:</td>
-    </tr>
-    <tr>
-        <td>git commit</td>
-        <td>Permet d'ajouter les modifications à l'historique :shipit: </td>
+        <td>Permet de créer un depot en local</td>
     </tr>
     <tr>
         <td>git status</td>
-        <td>Permet de visualiser l'état des fichiers locaux :wave: </td>
+        <td>Permet de visualiser l'etat des fichiers locaux :wave: </td>
+    </tr>
+    <tr>
+        <td>git diff</td>
+        <td>Permet d'afficher les différences dans les fichiers par rapport au depot</td>
     </tr>
     <tr>
         <td>git add</td>
-        <td>Permet d'ajouter un fichier à l'index :+1: </td>
+        <td>Permet d'ajouter un fichier ou ses modifications au prochain commit :+1: </td>
+    </tr>
+    <tr>
+        <td>git commit</td>
+        <td>Permet de sauvegarder tous les changements ajoutes :+1: </td>
     </tr>
     <tr>
         <td>git push</td>
-        <td>Permet d'envoyer les commits au dépôts distant :point_right: </td>
+        <td>Permet d'envoyer les commits au depot distant :point_right: </td>
     </tr>
     <tr>
         <td>git pull</td>
-        <td>Permet de récupérer les commits du dépôt distant :point_left: </td>
+        <td>Permet de récupérer les commits du depot distant :point_left: </td>
     </tr>
     <tr>
-        <td>Commande</td>
-        <td>Int√©r√™t</td>
+        <td>git log</td>
+        <td>Montre l'historique local</td>
     </tr>
     <tr>
-        <td>Commande</td>
-        <td>Int√©r√™t</td>
+        <td>git blame "file" </td>
+        <td>Permet de voir qui a modifie un fichier</td>
     </tr>
     <tr>
-        <td>Commande</td>
-        <td>Int√©r√™t</td>
+        <td>git branch</td>
+        <td>Permet de lister les branches</td>
     </tr>
     <tr>
-        <td>Commande</td>
-        <td>Int√©r√™t</td>
+        <td>git checkout</td>
+        <td>Permet de changer le HEAD dans l'historique (ou branche)</td>
+    </tr>
+    <tr>
+        <td>git fetch</td>
+        <td>Permet de telecharger les modifications du depot distant en local sans appliquer les modifications</td>
+    </tr>
+    <tr>
+        <td>git tag</td>
+        <td>Permet d'ajouter un tag de version au commit en cours</td>
+    </tr>
+    <tr>
+        <td>git merge</td>
+        <td>Permet de fusionner deux branches</td>
+    </tr>
+    <tr>
+        <td>git rebase</td>
+        <td>Permet d'ajouter les commits d'une branche a la suite du head de la branche actuelle</td>
+    </tr>
+    <tr>
+        <td>git reset</td>
+        <td>Permet de supprimer les modifications locales sur un fichier</td>
     </tr>
 </table>
