@@ -2,7 +2,7 @@
 
 ### INSTRUCTION
 
-## Cr√©er un repository sur github appel√© demo git ou command gi
+## Creer un repository sur github appele demo git ou command git
 
 # __Init__ :
 
@@ -15,7 +15,7 @@ git init
 ```
 git commit
 ```
-~~~Fait des chocapics~~~
+~~Fait des chocapics~~
 
 > Permet d'ajouter les modifications a l'historique :shipit:
 <table>
@@ -29,7 +29,7 @@ git commit
     </tr>
     <tr>
         <td>git init</td>
-        <td>Permet de créer un depot en local</td>
+        <td>Permet de creer un depot en local</td>
     </tr>
     <tr>
         <td>git status</td>
@@ -37,7 +37,7 @@ git commit
     </tr>
     <tr>
         <td>git diff</td>
-        <td>Permet d'afficher les différences dans les fichiers par rapport au depot</td>
+        <td>Permet d'afficher les differences dans les fichiers par rapport au depot</td>
     </tr>
     <tr>
         <td>git add</td>
@@ -53,7 +53,7 @@ git commit
     </tr>
     <tr>
         <td>git pull</td>
-        <td>Permet de récupérer les commits du depot distant :point_left: </td>
+        <td>Permet de recuperer les commits du depot distant :point_left: </td>
     </tr>
     <tr>
         <td>git log</td>
