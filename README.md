@@ -16,7 +16,7 @@ git init
 git commit
 ```
 > ~~Fait des chocapics~~
-> 
+>
 
 > Permet d'ajouter les modifications a l'historique :shipit:
 <table>
@@ -93,3 +93,4 @@ git commit
         <td>Permet de supprimer les modifications locales sur un fichier</td>
     </tr>
 </table>
+Bonjour c'est Corentin c'est une collaboration !!!
