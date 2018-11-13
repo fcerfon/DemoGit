@@ -16,6 +16,8 @@ git init
 git commit
 ```
 > ~~Fait des chocapics~~
+> 
+
 > Permet d'ajouter les modifications a l'historique :shipit:
 <table>
     <tr>
