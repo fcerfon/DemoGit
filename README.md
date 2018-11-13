@@ -30,7 +30,7 @@ git commit
     </tr>
     <tr>
         <td>git init</td>
-        <td>Permet de creer un depot en local</td>
+        <td>Permet de creer un depot en local :raised_hand: </td>
     </tr>
     <tr>
         <td>git status</td>
@@ -38,11 +38,11 @@ git commit
     </tr>
     <tr>
         <td>git diff</td>
-        <td>Permet d'afficher les differences dans les fichiers par rapport au depot</td>
+        <td>Permet d'afficher les differences dans les fichiers par rapport au depot :yum: </td>
     </tr>
     <tr>
         <td>git add</td>
-        <td>Permet d'ajouter un fichier ou ses modifications au prochain commit :+1: </td>
+        <td>Permet d'ajouter un fichier ou ses modifications au prochain commit :stuck_out_tongue_closed_eyes: </td>
     </tr>
     <tr>
         <td>git commit</td>
@@ -58,19 +58,19 @@ git commit
     </tr>
     <tr>
         <td>git log</td>
-        <td>Montre l'historique local</td>
+        <td>Montre l'historique local :bowtie: </td>
     </tr>
     <tr>
         <td>git blame "file" </td>
-        <td>Permet de voir qui a modifie un fichier</td>
+        <td>Permet de voir qui a modifie un fichier :grinning: </td>
     </tr>
     <tr>
         <td>git branch</td>
-        <td>Permet de lister les branches</td>
+        <td>Permet de lister les branches :worried: </td>
     </tr>
     <tr>
         <td>git checkout</td>
-        <td>Permet de changer le HEAD dans l'historique (ou branche)</td>
+        <td>Permet de changer le HEAD dans l'historique (ou branche) :anguished: </td>
     </tr>
     <tr>
         <td>git fetch</td>
