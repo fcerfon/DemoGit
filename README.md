@@ -1,4 +1,4 @@
-[some alt text](sunglasse.jpg)
+![some alt text](sunglasse.jpg)
 
 ### INSTRUCTION
 
